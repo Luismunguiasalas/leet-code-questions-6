@@ -6,4 +6,9 @@
 1436 destination city
 1450 Number of Students Doing Homework at a Given Time
 1464 Maximum Product of Two Elements in an Array
-1304 Find N Unique Integers Sum up to Zero 1370. Increasing Decreasing String 1374. Generate a String With Characters That Have Odd Counts
+1304 Find N Unique Integers Sum up to Zero
+1370 Increasing Decreasing String
+1374 Generate a String With Characters That Have Odd Counts
+728 Self Dividing Numbers
+1351 Count Negative Numbers in a Sorted Matrix
+905 sort array by parity
